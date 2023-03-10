@@ -8,7 +8,7 @@ import java.awt.Point;
  * Class Shape:  class for shapes that can be represented with 2 points
  * @author Barb Ericson
  */
-public class Shape {
+public class Shape {//iji
   // public constants
   public static final String RECTANGLE = "Rectangle"; // constant for rectangle
   public static final String OVAL = "Oval";           // constant for oval
